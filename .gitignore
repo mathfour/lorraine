@@ -1,3 +1,7 @@
+/.idea/
+/test/
+test*.*
+
 # Logs
 logs
 *.log

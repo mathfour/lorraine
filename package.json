@@ -1,0 +1,25 @@
+{
+  "name": "lorraine",
+  "version": "1.0.0",
+  "description": "final project 3",
+  "main": "index.js",
+  "scripts": {
+    "start": "node myapp.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mathfour/lorraine.git"
+  },
+  "author": "Bon Crowder",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mathfour/lorraine/issues"
+  },
+  "homepage": "https://github.com/mathfour/lorraine#readme",
+  "dependencies": {
+    "express": "^4.15.4",
+    "express-generator": "^4.15.0",
+    "express-mongoose-generator": "^3.0.3"
+  }
+}
